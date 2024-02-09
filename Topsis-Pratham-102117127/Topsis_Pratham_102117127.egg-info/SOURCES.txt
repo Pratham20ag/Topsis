@@ -1,0 +1,8 @@
+licence.txt
+setup.py
+Topsis-Pratham-102117127/__init__.py
+Topsis_Pratham_102117127.egg-info/PKG-INFO
+Topsis_Pratham_102117127.egg-info/SOURCES.txt
+Topsis_Pratham_102117127.egg-info/dependency_links.txt
+Topsis_Pratham_102117127.egg-info/requires.txt
+Topsis_Pratham_102117127.egg-info/top_level.txt
